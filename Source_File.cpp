@@ -1,7 +1,7 @@
 #include "Source_File.cpp"
 
 MyClass::MyClass( ) {
- id = 0;
+ id = 1;
 }
 
 MyClass::~MyClass( ) {
