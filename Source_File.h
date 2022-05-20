@@ -1,3 +1,5 @@
 /*
 This is my dummy class header
+
+Thinking about developing...
 */
